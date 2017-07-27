@@ -1,7 +1,7 @@
 const _merge = require('lodash.merge')
 
 const defaultOptions = {
-    delay: 10000,
+    delay: 3000,
     lifecycleEvents: ['run', 'watch-run'],
     verbose: false
 }
