@@ -15,7 +15,7 @@ module.exports = {
     plugins: [
         new DelayPlugin({
             delay: 3000, // delay in ms
-            lifecycleEvents: ['run', 'watch-run'], // array of strings, which must match available webpack lifecycle events
+            lifecycleEvents: ['run', 'watch-run'], // array of strings, which must match webpack lifecycle events
             verbose: false // enable debug logging
         })
     ]
