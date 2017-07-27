@@ -1,6 +1,6 @@
 {
   "name": "webpack-delay-plugin",
-  "version": "0.0.2-0",
+  "version": "0.0.2-1",
   "description": "A webpack plugin to delay the compilation.",
   "main": "index.js",
   "repository": "MattDiMu/webpack-delay-plugin",
