@@ -1,0 +1,21 @@
+{
+  "name": "webpack-delay-plugin",
+  "version": "0.0.1",
+  "description": "A webpack plugin to delay the compilation.",
+  "main": "index.js",
+  "repository": "MattDiMu/webpack-delay-plugin",
+  "scripts": {
+    "lint": "eslint index.js"
+  },
+  "bugs": {
+    "url": "https://github.com/MattDiMu/webpack-delay-plugin/issues"
+  },
+  "author": "Matthias Müller <MattDiMu@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "lodash.merge": "^4.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.3.0"
+  }
+}
